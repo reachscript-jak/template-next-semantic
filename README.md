@@ -1,4 +1,10 @@
-## フロントエンド
+# Next.js & TypeScript & Semantic UI React & Prettier & ESLint
+
+## 説明
+
+Next.jsを使用して開発を始める際のテンプレートプロジェクトです。  
+UIライブラリとして[Semantic UI React](https://react.semantic-ui.com/)を使用しています。  
+cloneしてご自由にお使いください。
 
 ### 使用技術等
 
